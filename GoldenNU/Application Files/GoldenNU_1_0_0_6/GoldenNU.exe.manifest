@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="GoldenNU.exe" version="1.0.0.5" publicKeyToken="621763f8df80a6dc" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="GoldenNU.exe" version="1.0.0.6" publicKeyToken="621763f8df80a6dc" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="nu.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -122,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2IR9w2I4A5zXfk3upaBjIwmWqYlrdcSV7RC7sDyJjnM=</dsig:DigestValue>
+        <dsig:DigestValue>DrXp4y0trgtS8EfytzGUU4lemceqLYrEuAJ9AnlfIqo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -134,7 +134,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xu4E0w3Xr/uSVTjB8LFBqvNCl6uRNN8KBtJ80Qd4yu8=</dsig:DigestValue>
+        <dsig:DigestValue>7rvNYa/IU/WDvlFoHKmMqyuNcEqGcIxYuPyXOmx7rK8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -163,14 +163,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GoldenModel.dll" size="15886848">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GoldenModel.dll" size="15865856">
       <assemblyIdentity name="GoldenModel" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+wwMY92k4NfUga1Kbs2nmXsogw9kvSftoJJy1/6Yei4=</dsig:DigestValue>
+        <dsig:DigestValue>DD2SMGO0BVBBcFofi7oQHTnz4h2B1qUPvYknjWw0Y2o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -194,7 +194,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ch6jSaPY9gcsRn0q0at7204K/oRnFEvhiGfaRUn5EIw=</dsig:DigestValue>
+        <dsig:DigestValue>nWeR3gZXZ/xHtHx1TYssZYaS5ugSx+VV1IPdeZDoC3U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -206,19 +206,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IbhEnVK9PxxWad6K6dIIECGuAzibUJUdTKCLsc3Wo9E=</dsig:DigestValue>
+        <dsig:DigestValue>WjoM+mx74O5RCPdRPID4KaGAtxyJNXkAakBzZTdStGY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GoldenShare.exe" size="18305536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GoldenShare.exe" size="18369536">
       <assemblyIdentity name="GoldenShare" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NBNDEjtyOndoz1wn+Qad6ytFAagYWSMoXoDEqefJAvg=</dsig:DigestValue>
+        <dsig:DigestValue>dNQ44VGpA5e2TM5V102Luu3mAiipgbT0xzJi2ZmCI8o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -230,7 +230,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9279UzkRdiBRF8UNZ33OfXJYTjOmICfNJrX7u6Satdw=</dsig:DigestValue>
+        <dsig:DigestValue>9wxU3TYzUqgJJxURHWDoo9VQOWYfYcFDZ1gnLnRDWgU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -242,7 +242,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5IMJb5G5krdj9NUeSn1PyGHWe9Tyh2kMUyBk+VWE/xA=</dsig:DigestValue>
+        <dsig:DigestValue>8ZM7Fd9sp/lUvePSP5cGl0hNCfqvUZZolZ45i8aQJco=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -266,7 +266,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bchM3ki+XqdSBsUFNV+7s5H7fDDYBvePNFqHXx/GeBg=</dsig:DigestValue>
+        <dsig:DigestValue>LtUt/1tIwRYxa1FZd13jgMfOnhFQiq1zKfwgYzIPkys=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -530,7 +530,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>euSpnHH8L8t6y6izP0/sf1zLPAPkpEryXFcnkzWvPLk=</dsig:DigestValue>
+        <dsig:DigestValue>E79bR+EmZQCclNtvS2hR07XeRGsGHOLxJzxxnsBpCHQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -641,4 +641,4 @@
       <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
     </application>
   </compatibility>
-<publisherIdentity name="CN=Anto-Acer\Golden Clinic" issuerKeyHash="b5f7163e18edda9f3ae5b11c17458e2529828fd9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SvGyhgySR3vJnfE75DqlQXhKen+BuzZ1pUi56GpvUPk=</DigestValue></Reference></SignedInfo><SignatureValue>lntSdv0jPwtT/P2NVxkIHJF6DpXtRk8b867PdpSruhJEGShFLUCYjlrJ/XVexEBeT9f7c6j2JH8FqJSNvpGyFPzpBX15KH8FpAGa0XCtCoDb9vjgOkFaQmAx6cV80qjZ1HZPPs0IF6ucJA+Zqwbo7g0Ec0ltY0yOIAfKNCaW7fk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5rMocXT+sVdDPNAbHiDX4lbN6MxAa1KqKV7dyy46+2rCzxJic9dUcg9swOLwLlcn8Bans+R6TcKGshRyiNrmsVraRQLclQ84Wos3rDOnA/+hgtrPIpYSCJYMbdZsgCQjqNBfX/+jf43/JXOxJlKfD4zvBo2k1ZcPLVnBbmE38MM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f9506f6ae8b948a57536bb817f7a4a7841a53ae43bf19dc97b47920c86b2f14a" Description="" Url=""><as:assemblyIdentity name="GoldenNU.exe" version="1.0.0.5" publicKeyToken="621763f8df80a6dc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Anto-Acer\Golden Clinic</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SLhGeRbcib4hoOKiGzzWzI/vg41jtbIUrtOlsSAfTpU=</DigestValue></Reference></SignedInfo><SignatureValue>ZeTZwPNSyrTnrOxweXUAVaqNn4mPV6x4PYtMjIQGJv6U5SXZuPvuzeBiVLpvkjGhotqG8qK+tpi2y1kWmrWUYdGRLCyp4ZxJTsKw3FHErJm3MtUejh7+xOi2agCkUAdvboz0dacFR6xjsmB2k/tCSLMrC0CMAQ8FipXDLy3qnbw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5rMocXT+sVdDPNAbHiDX4lbN6MxAa1KqKV7dyy46+2rCzxJic9dUcg9swOLwLlcn8Bans+R6TcKGshRyiNrmsVraRQLclQ84Wos3rDOnA/+hgtrPIpYSCJYMbdZsgCQjqNBfX/+jf43/JXOxJlKfD4zvBo2k1ZcPLVnBbmE38MM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDjCCAXegAwIBAgIQECbko/Fwm6BK8U5w8h1wQDANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4AQQBuAHQAbwAtAEEAYwBlAHIAXABHAG8AbABkAGUAbgAgAEMAbABpAG4AaQBjMB4XDTE0MDUzMTE1MzIzMloXDTM5MDEwMjAwMDAwMFowOTE3MDUGA1UEAx4uAEEAbgB0AG8ALQBBAGMAZQByAFwARwBvAGwAZABlAG4AIABDAGwAaQBuAGkAYzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5rMocXT+sVdDPNAbHiDX4lbN6MxAa1KqKV7dyy46+2rCzxJic9dUcg9swOLwLlcn8Bans+R6TcKGshRyiNrmsVraRQLclQ84Wos3rDOnA/+hgtrPIpYSCJYMbdZsgCQjqNBfX/+jf43/JXOxJlKfD4zvBo2k1ZcPLVnBbmE38MMCAwEAAaMXMBUwEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcNAQELBQADgYEAmV/KoyzriX0CxGEv1Em+zgQdguxj/GBGQA0yyhkZVj6/F8Kg3xHV22xMhaLbbB6ZFAnXMwo+sCjbz4gW9O8pItj6NMdKuacVJ7vPJ9Fhm50oH3BP0+uurEAjsQEPJvQqKYuDCCJ+Iz73vSPB54R9N9r2sgdVL4Cqyps9axhx/MM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=Anto-Acer\Golden Clinic" issuerKeyHash="b5f7163e18edda9f3ae5b11c17458e2529828fd9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ImIZtHfSodNAF8iI/gm+WThRngGZb9xGe8r/e0dT5Ls=</DigestValue></Reference></SignedInfo><SignatureValue>Q89qycgFiuv5DZKNiMsO+IOp5NRoHV7Fwemp7BHwkmJIokw6A26jIevAHMQ9z4IINzbe+J95fFhnQF1tBMXxtL1+aFPZ+c2aXWNEYhoN4zocxsBnTzkKkqDyTgH60TDuIdT8AXXM0pDGNzK6ugkjk4A5AM0e0yJ+fiNcHvR6GmY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5rMocXT+sVdDPNAbHiDX4lbN6MxAa1KqKV7dyy46+2rCzxJic9dUcg9swOLwLlcn8Bans+R6TcKGshRyiNrmsVraRQLclQ84Wos3rDOnA/+hgtrPIpYSCJYMbdZsgCQjqNBfX/+jf43/JXOxJlKfD4zvBo2k1ZcPLVnBbmE38MM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bbe453477bffca7b46dc6f99019e513859be09fe88c81740d3a1d277b4196222" Description="" Url=""><as:assemblyIdentity name="GoldenNU.exe" version="1.0.0.6" publicKeyToken="621763f8df80a6dc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Anto-Acer\Golden Clinic</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SvPR/3dLjkzS68n4Ee1IBSNFYlAV/sbdZvVHx+/ORMQ=</DigestValue></Reference></SignedInfo><SignatureValue>eOYQldKtdvgroR1vpFeK/S9sVrd69QIFqUefZ9eYqMcT3QWhfdZ4G2klI2ndIJvmZKsBmNFtd9RDSILVf3R+hA8FhZEvm1gTy5mOXfbFghaM8hJT1PgquG93a0wgcSN5KQcKG/FggGMDvnfUy0JNmN78OjdtfTwYBdON/ZTqhaY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5rMocXT+sVdDPNAbHiDX4lbN6MxAa1KqKV7dyy46+2rCzxJic9dUcg9swOLwLlcn8Bans+R6TcKGshRyiNrmsVraRQLclQ84Wos3rDOnA/+hgtrPIpYSCJYMbdZsgCQjqNBfX/+jf43/JXOxJlKfD4zvBo2k1ZcPLVnBbmE38MM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDjCCAXegAwIBAgIQECbko/Fwm6BK8U5w8h1wQDANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4AQQBuAHQAbwAtAEEAYwBlAHIAXABHAG8AbABkAGUAbgAgAEMAbABpAG4AaQBjMB4XDTE0MDUzMTE1MzIzMloXDTM5MDEwMjAwMDAwMFowOTE3MDUGA1UEAx4uAEEAbgB0AG8ALQBBAGMAZQByAFwARwBvAGwAZABlAG4AIABDAGwAaQBuAGkAYzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5rMocXT+sVdDPNAbHiDX4lbN6MxAa1KqKV7dyy46+2rCzxJic9dUcg9swOLwLlcn8Bans+R6TcKGshRyiNrmsVraRQLclQ84Wos3rDOnA/+hgtrPIpYSCJYMbdZsgCQjqNBfX/+jf43/JXOxJlKfD4zvBo2k1ZcPLVnBbmE38MMCAwEAAaMXMBUwEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcNAQELBQADgYEAmV/KoyzriX0CxGEv1Em+zgQdguxj/GBGQA0yyhkZVj6/F8Kg3xHV22xMhaLbbB6ZFAnXMwo+sCjbz4gW9O8pItj6NMdKuacVJ7vPJ9Fhm50oH3BP0+uurEAjsQEPJvQqKYuDCCJ+Iz73vSPB54R9N9r2sgdVL4Cqyps9axhx/MM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
